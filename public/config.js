@@ -1,9 +1,9 @@
 /*----- Player name -----*/
-window.playername = "IPTVEditor Web Player";
+window.playername = "MY IPTVEditor Web Player";
 
 /*----- DNS -----*/
 //Iptv provider dns url (for example "http://domain.com:80")
-window.dns = "http://domain.com:80";
+window.dns = "http://vip.iptvone.se:2095";
 
 /*----- CORS -----*/
 /*/ Change on false if iptv provider has the Access-Control-Allow-Origin set on "*" or allows your player domain.
